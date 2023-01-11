@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "Room1",
+  "name": "rm_games",
   "isDnd": false,
   "volume": 1.0,
   "parentRoom": null,
