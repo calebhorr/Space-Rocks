@@ -9,7 +9,7 @@
     {"id":{"name":"spr_rock_big","path":"sprites/spr_rock_big/spr_rock_big.yy",},"order":2,},
     {"id":{"name":"spr_bullet","path":"sprites/spr_bullet/spr_bullet.yy",},"order":0,},
     {"id":{"name":"spr_rock_small","path":"sprites/spr_rock_small/spr_rock_small.yy",},"order":3,},
-    {"id":{"name":"rm_games","path":"rooms/rm_games/rm_games.yy",},"order":0,},
+    {"id":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -25,7 +25,7 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"rm_games","path":"rooms/rm_games/rm_games.yy",},},
+    {"roomId":{"name":"rm_game","path":"rooms/rm_game/rm_game.yy",},},
   ],
   "Folders": [
     {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Animation Curves","folderPath":"folders/Animation Curves.yy","order":20,},

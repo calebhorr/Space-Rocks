@@ -1,7 +1,7 @@
 {
   "resourceType": "GMRoom",
   "resourceVersion": "1.0",
-  "name": "rm_games",
+  "name": "rm_game",
   "isDnd": false,
   "volume": 1.0,
   "parentRoom": null,
@@ -28,10 +28,10 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_791B7DCC","path":"rooms/rm_games/rm_games.yy",},
-    {"name":"inst_8A3C0F1","path":"rooms/rm_games/rm_games.yy",},
-    {"name":"inst_352790FD","path":"rooms/rm_games/rm_games.yy",},
-    {"name":"inst_19DF717F","path":"rooms/rm_games/rm_games.yy",},
+    {"name":"inst_791B7DCC","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_8A3C0F1","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_352790FD","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_19DF717F","path":"rooms/rm_game/rm_game.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
