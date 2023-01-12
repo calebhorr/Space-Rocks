@@ -17,3 +17,8 @@ if (keyboard_check(vk_up))
 }
 
 move_wrap(true,true,sprite_width/2);
+
+
+
+
+
