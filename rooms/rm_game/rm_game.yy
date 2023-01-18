@@ -30,8 +30,8 @@
   "instanceCreationOrder": [
     {"name":"inst_791B7DCC","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_8A3C0F1","path":"rooms/rm_game/rm_game.yy",},
-    {"name":"inst_352790FD","path":"rooms/rm_game/rm_game.yy",},
     {"name":"inst_19DF717F","path":"rooms/rm_game/rm_game.yy",},
+    {"name":"inst_352790FD","path":"rooms/rm_game/rm_game.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
