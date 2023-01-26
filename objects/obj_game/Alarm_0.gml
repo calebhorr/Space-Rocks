@@ -18,4 +18,4 @@ var yy = choose (0,room_height);
 
 instance_create_layer(xx, yy, "Instances", obj_rock);
 
-alarm[0] = 1;
+alarm[0] = 4*60;
